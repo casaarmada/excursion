@@ -21,9 +21,10 @@ h2 {
 h3 {
     font-size: 21px;
     color: gray;
+
 }
 
-logo {
+.logo {
     text-align: right;
     color:gray;
 }
